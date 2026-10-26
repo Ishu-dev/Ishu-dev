@@ -8,10 +8,15 @@ Last internship: Havish M Consulting (Apr-Jun 2026), where I built a prompt buil
 
 | Project | What it does | Stack |
 |---|---|---|
+| [multi-agent-lab](https://github.com/Ishu-dev/multi-agent-lab) | Three AI agents that research a business question with live Google Search and write a sourced report, behind a private API | Python, CrewAI, FastAPI |
 | [substack-mcp](https://github.com/Ishu-dev/substack-mcp) | MCP server that lets Claude search and read Substack posts, no login needed | Python, MCP |
 | [instagram-insights-dashboard](https://github.com/Ishu-dev/instagram-insights-dashboard) | Pulls Instagram Graph API insights into a single offline HTML dashboard | Python, Graph API |
-| [blob-island](https://github.com/Ishu-dev/blob-island) | Physics-driven isometric game prototype, playable in the browser | Godot 4 |
-| [gem-cli](https://github.com/Ishu-dev/gem-cli) | Terminal wrapper for Gemini: file conversions, summaries, bulk rewrites | Python, uv |
+| [claude-code-mods](https://github.com/Ishu-dev/claude-code-mods) | Thirteen Claude Code mods, including a spoken mock-interview coach with local Whisper transcription | TypeScript |
+| [gem-cli](https://github.com/Ishu-dev/gem-cli) and [grq-cli](https://github.com/Ishu-dev/grq-cli) | Terminal tools for Gemini and Groq with parallel batch runs over folders of files | Python |
+| [blob-island](https://github.com/Ishu-dev/blob-island) | Physics-driven isometric action game, [playable in the browser](https://ishu-dev.github.io/blob-island/) | Godot 4 |
+| [vice-cute](https://github.com/Ishu-dev/vice-cute) | Top-down open-world homage to GTA Vice City, [playable](https://ishu-dev.github.io/vice-cute/) | JavaScript, Canvas |
+| [shop-sim-3d](https://github.com/Ishu-dev/shop-sim-3d) | Supermarket walking simulator with a shopping list and checkout, [playable](https://ishu-dev.github.io/shop-sim-3d/) | Three.js |
+| [carousel-builder](https://github.com/Ishu-dev/carousel-builder) | Turns Instagram carousel posts written as JSON into finished 1080x1350 slides | Python, headless Chrome |
 | [joka-meditates](https://github.com/Ishu-dev/joka-meditates) | Website and newsletter archive for the IIM Calcutta meditation club I lead | HTML, CSS |
 | [BAMD_Group_10](https://github.com/Ishu-dev/BAMD_Group_10) | Targeted pricing and advertising model for a business analytics course | Python |
 
