@@ -16,6 +16,7 @@ Last internship: Havish M Consulting (Apr-Jun 2026), where I built a prompt buil
 | [blob-island](https://github.com/Ishu-dev/blob-island) | Physics-driven isometric action game, [playable in the browser](https://ishu-dev.github.io/blob-island/) | Godot 4 |
 | [vice-cute](https://github.com/Ishu-dev/vice-cute) | Top-down open-world homage to GTA Vice City, [playable](https://ishu-dev.github.io/vice-cute/) | JavaScript, Canvas |
 | [shop-sim-3d](https://github.com/Ishu-dev/shop-sim-3d) | Supermarket walking simulator with a shopping list and checkout, [playable](https://ishu-dev.github.io/shop-sim-3d/) | Three.js |
+| [misprint](https://github.com/Ishu-dev/misprint) | Two-colour risograph survival game: swap ink, paint trails, overprint violet blasts, pick upgrades between waves, [playable](https://ishu-dev.github.io/misprint/) | TypeScript, Phaser, WebAudio |
 | [website-practice](https://github.com/Ishu-dev/website-practice) | Seven design-practice sites, including a 3D watch product page and a Ben 10 fan site with a 1v1 fight, [live](https://ishu-dev.github.io/website-practice/) | HTML, CSS, Three.js |
 | [carousel-builder](https://github.com/Ishu-dev/carousel-builder) | Turns Instagram carousel posts written as JSON into finished 1080x1350 slides | Python, headless Chrome |
 | [joka-meditates](https://github.com/Ishu-dev/joka-meditates) | Website and newsletter archive for the IIM Calcutta meditation club I lead | HTML, CSS |
