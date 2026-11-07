@@ -8,6 +8,7 @@ Last internship: Havish M Consulting (Apr-Jun 2026), where I built a prompt buil
 
 | Project | What it does | Stack |
 |---|---|---|
+| [audit-trail](https://github.com/Ishu-dev/audit-trail) | Audits Excel financial models and reports an error only when code run in a no-network sandbox proves it, and contains hidden prompt injections. Built for Vultr Agent Rush | Python, FastAPI, Docker |
 | [multi-agent-lab](https://github.com/Ishu-dev/multi-agent-lab) | Three AI agents that research a business question with live Google Search and write a sourced report, behind a private API | Python, CrewAI, FastAPI |
 | [substack-mcp](https://github.com/Ishu-dev/substack-mcp) | MCP server that lets Claude search and read Substack posts, no login needed | Python, MCP |
 | [instagram-insights-dashboard](https://github.com/Ishu-dev/instagram-insights-dashboard) | Pulls Instagram Graph API insights into a single offline HTML dashboard | Python, Graph API |
